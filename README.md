@@ -1,3 +1,2 @@
 ﻿# google-clone
-
-//My first Project
+My first Project! :)
